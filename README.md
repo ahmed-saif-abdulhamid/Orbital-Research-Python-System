@@ -79,17 +79,10 @@ award-winning-system/
 ```
 
 ## Acknowledgments
-This project is inspired by foundational work on the three-body problem and stability analysis by Suvakov, Dmitrašinović, and Montgomery. Special thanks to [STEM October Physics Club](https://example.com) for their resources and guidance.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is inspired by foundational work on the three-body problem and stability analysis by Suvakov, Dmitrašinović, and Montgomery. Special thanks to [STEM October Physics Club](octphysicsclub.org) for their resources and guidance.
 
 ## Contact
 For questions, suggestions, or collaborations, feel free to reach out:
 - **Author**: Ahmed Saif El-Deen Rezk Abd ElHamid
-- **Email**: ahmed@example.com
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
+- **Email**: ahmedsaifeldeen1314@gmail.com
 
----
-
-Feel free to fork, explore, and contribute to this project!
